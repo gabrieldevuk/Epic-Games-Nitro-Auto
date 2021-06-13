@@ -166,15 +166,13 @@ Project Link: [https://github.com/ukphotography/Epic-Games-Nitro-Auto](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ukphotography/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/ukphotography/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ukphotography/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ukphotography/Epic-Games-Nitro-Auto.svg?style=for-the-badge
+[contributors-url]: https://github.com/ukphotography/Epic-Games-Nitro-Auto/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ukphotography/Epic-Games-Nitro-Auto.svg?style=for-the-badge
 [forks-url]: https://github.com/ukphotography/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/ukphotography/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/ukphotography/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ukphotography/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/ukphotography/repo/issues
-[license-shield]: https://img.shields.io/github/license/ukphotography/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ukphotography/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ukphotography
+[stars-shield]: https://img.shields.io/github/stars/ukphotography/Epic-Games-Nitro-Auto.svg?style=for-the-badge
+[stars-url]: https://github.com/ukphotography/Epic-Games-Nitro-Auto/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ukphotography/Epic-Games-Nitro-Auto.svg?style=for-the-badge
+[issues-url]: https://github.com/ukphotography/Epic-Games-Nitro-Auto/issues
+[license-shield]: https://img.shields.io/github/license/ukphotography/Epic-Games-Nitro-Auto.svg?style=for-the-badge
+[license-url]: https://github.com/ukphotography/Epic-Games-Nitro-Auto/blob/master/LICENSE.txt
